@@ -5,3 +5,4 @@ title: "Adi's Quarto"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+![Figure 1: Elephant Image](image.png)
